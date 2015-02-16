@@ -1,4 +1,5 @@
 void main()
 {
-	printf("My name is MAggie Noodles");
+	printf("My name is Maggie Noodles");
 }
+I AM STUPIDDDDDDDD
