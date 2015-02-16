@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 Neel Is Awesome
+=======
+<<<<<<< HEAD
+Neel is mean
+=======
+Sourabh Is Awesome
+>>>>>>> d0b883179dfaa12cd46c0df5fe59074099c951db
+>>>>>>> 133ea48c527c6eec7abaa4b05803aa9d7147cfa2
