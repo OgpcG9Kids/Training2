@@ -7,6 +7,10 @@ class Neel
 	{
 		printf("neel is awesome");
 	}
+	void playSoccer()
+	{
+		printf("played soccer");
+	}
 };
 int main()
 {
